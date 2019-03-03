@@ -1,0 +1,40 @@
+h1{
+    font-size: 2.5em;
+    font-family: fantasy;
+    text-align: center;
+}
+h2{
+    font-family: 'calibri';
+    justify-items: center;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #ff0000;
+}
+h4{
+    font-family: 'monoscope';
+    padding: 2em;
+    text-align: justify;
+    color: #32dbc6;
+    font-size: 1.5em;
+}
+.contenedorgeneral{
+    background-color:#fab95b;
+    display: flex;
+    flex-flow: wrap;
+    
+}
+.contenedorintel{
+    
+    background-color: white;
+}
+.contenedoramd{
+    background-color: white;
+}
+.articulos{
+    background-color: #cbf1f5;
+    border-radius: 30px;
+}
+.articulo1{
+    background-color: #ffcdab;
+    border-radius: 30px;
+}
